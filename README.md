@@ -1,4 +1,9 @@
 # Static web page
 ![Screenshot](images/screenshot.png)
 
-this project is simple web page
+This project is a simple template.
+
+## create By
+- **Html**
+- **css**
+- **JS**
