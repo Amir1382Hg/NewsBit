@@ -1,5 +1,5 @@
 # Static web page
-![Screenshot](images/screenshot.png)
+![Uploading Screenshot (129).png…].
 
 This project is a simple template.
 
